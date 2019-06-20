@@ -1,0 +1,13 @@
+{
+    "name": "alistairshaw/simple-stripe",
+    "description": "A simple Stripe integration using the new checkout API",
+    "authors": [
+        {
+            "name": "Alistair Shaw",
+            "email": "alistairshaw@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^6.38"
+    }
+}
